@@ -1,4 +1,4 @@
-# Contributed Transproc
+# Contributed Transproc Functions
 
 A variety of functional transforms and value object coercions for Transproc.
 
