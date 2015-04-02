@@ -1,6 +1,3 @@
-require "transproc/contrib/version"
+require 'transproc/contrib/version'
 
-module Transproc
-  module Contrib
-  end
-end
+# TODO: default requires here
